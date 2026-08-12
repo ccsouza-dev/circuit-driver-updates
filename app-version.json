@@ -1,8 +1,8 @@
 {
-  "versionName": "1.7",
-  "versionCode": 8,
+  "versionName": "1.8",
+  "versionCode": 9,
   "releasedAt": "2026-08-12",
-  "notes": "Otimizar rota no celular (fallback local); autocomplete; geocode; .croute WhatsApp.",
-  "apkUrl": "https://github.com/ccsouza-dev/circuit-driver-updates/releases/download/v1.7/Circuit-Driver-debug.apk",
+  "notes": "Otimizar rota no celular via OSRM (ruas reais), sem zigue-zague em linha reta.",
+  "apkUrl": "https://github.com/ccsouza-dev/circuit-driver-updates/releases/download/v1.8/Circuit-Driver-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/circuit-driver-updates"
 }
