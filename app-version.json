@@ -1,8 +1,8 @@
 {
-  "versionName": "1.8",
-  "versionCode": 9,
-  "releasedAt": "2026-08-12",
-  "notes": "Otimizar rota no celular via OSRM (ruas reais), sem zigue-zague em linha reta.",
-  "apkUrl": "https://github.com/ccsouza-dev/circuit-driver-updates/releases/download/v1.8/Circuit-Driver-debug.apk",
+  "versionName": "1.9",
+  "versionCode": 10,
+  "releasedAt": "2026-08-13",
+  "notes": "Icone do app com logo ERB Transportes.",
+  "apkUrl": "https://github.com/ccsouza-dev/circuit-driver-updates/releases/download/v1.9/Circuit-Driver-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/circuit-driver-updates"
 }
