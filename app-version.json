@@ -1,8 +1,8 @@
 {
-  "versionName": "1.9",
-  "versionCode": 10,
+  "versionName": "1.10",
+  "versionCode": 11,
   "releasedAt": "2026-08-13",
-  "notes": "Icone do app com logo ERB Transportes.",
-  "apkUrl": "https://github.com/ccsouza-dev/circuit-driver-updates/releases/download/v1.9/Circuit-Driver-debug.apk",
+  "notes": "Atualização com um toque: existe nova versão + botão Atualizar (instala automaticamente).",
+  "apkUrl": "https://github.com/ccsouza-dev/circuit-driver-updates/releases/download/v1.10/Circuit-Driver-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/circuit-driver-updates"
 }
