@@ -1,8 +1,8 @@
 {
-  "versionName": "1.10",
-  "versionCode": 11,
+  "versionName": "2.0",
+  "versionCode": 12,
   "releasedAt": "2026-08-13",
-  "notes": "Atualização com um toque: existe nova versão + botão Atualizar (instala automaticamente).",
-  "apkUrl": "https://github.com/ccsouza-dev/circuit-driver-updates/releases/download/v1.10/Circuit-Driver-debug.apk",
-  "repoUrl": "https://github.com/ccsouza-dev/circuit-driver-updates"
+  "notes": "Rebrand Erb Rotas (marca própria). Pacote Android novo: desinstale o app antigo e instale este.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.0/Erb-Rotas-debug.apk",
+  "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
