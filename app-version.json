@@ -1,8 +1,8 @@
 {
-  "versionName": "2.0",
-  "versionCode": 12,
-  "releasedAt": "2026-08-13",
-  "notes": "Rebrand Erb Rotas (marca própria). Pacote Android novo: desinstale o app antigo e instale este.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.0/Erb-Rotas-debug.apk",
+  "versionName": "2.1",
+  "versionCode": 13,
+  "releasedAt": "2026-08-14",
+  "notes": "Limpar trabalho na home, arrastar lista de paradas, unificador parcial e checagem de atualização ao reabrir o app.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.1/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
