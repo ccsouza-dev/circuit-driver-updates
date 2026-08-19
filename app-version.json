@@ -1,8 +1,8 @@
 {
-  "versionName": "2.1",
-  "versionCode": 13,
-  "releasedAt": "2026-08-14",
-  "notes": "Limpar trabalho na home, arrastar lista de paradas, unificador parcial e checagem de atualização ao reabrir o app.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.1/Erb-Rotas-debug.apk",
+  "versionName": "2.4",
+  "versionCode": 16,
+  "releasedAt": "2026-08-19",
+  "notes": "Ao abrir o app, consulta a nuvem sozinho e avisa se existe versao nova para instalar.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.4/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
